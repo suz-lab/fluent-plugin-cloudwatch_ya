@@ -5,6 +5,7 @@ Yet Another Plugin for Amazon CloudWatch.
 == How to use
 
 Please read this blog. (I'm sorry Japanese only.)
+
 http://blog.suz-lab.com/search/label/fluent-plugin-cloudwatch_ya
 
 == Contributing to fluent-plugin-cloudwatch_ya
