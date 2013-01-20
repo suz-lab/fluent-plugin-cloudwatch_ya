@@ -4,7 +4,7 @@ Description goes here.
 
 ## How to use fluent-plugin-cloudwatch_ya
 
-Please read this blog. (I'm sorry Japanese only.)
+Please read this Blog. (I'm sorry Japanese only.)
 
 http://blog.suz-lab.com/search/label/fluent-plugin-cloudwatch_ya
 
