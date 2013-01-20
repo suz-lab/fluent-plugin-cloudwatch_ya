@@ -1,6 +1,6 @@
 # fluent-plugin-cloudwatch_ya
 
-Description goes here.
+Yet Another (Input/Output) Plugin for Amazon CloudWatch.
 
 ## How to use fluent-plugin-cloudwatch_ya
 
