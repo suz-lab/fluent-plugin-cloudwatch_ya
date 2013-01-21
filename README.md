@@ -2,6 +2,18 @@
 
 Yet Another (Input/Output) Plugin for Amazon CloudWatch.
 
+## Component
+
+### CloudWatchYaInput
+
+Coming Soon.
+
+### CloudWatchYaOutput
+
+Plugin to put CloudWatch Custome Metrics.
+
+## Configuration
+
 ## How to use fluent-plugin-cloudwatch_ya
 
 Please read this Blog. (I'm sorry Japanese only.)
