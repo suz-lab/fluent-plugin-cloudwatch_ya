@@ -16,6 +16,10 @@ Plugin to put CloudWatch Custome Metrics.
 
 ## Configuration
 
+### CloudWatchYaInput
+
+### CloudWatchYaOutput
+
 ## How to use fluent-plugin-cloudwatch_ya
 
 Please read this Blog. (I'm sorry Japanese only.)
