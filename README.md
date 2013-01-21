@@ -2,6 +2,8 @@
 
 Yet Another (Input/Output) Plugin for Amazon CloudWatch.
 
+![README-1](https://cacoo.com/diagrams/WkVUjVsyTuD49oWU-61B29.png)
+
 ## Component
 
 ### CloudWatchYaInput
